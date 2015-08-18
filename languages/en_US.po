@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevolution Bulk Import v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-11 13:11:33+0000\n"
+"Last-Translator: admin <dishant.patel1007@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: export_to_CSV.php:310
+#@ templatic
+msgid "Can't write line"
+msgstr ""
+
+#: export_to_CSV.php:314
+#@ templatic
+msgid "Can't close"
+msgstr ""
+
+#: export_to_CSV.php:320
+#@ templatic
+msgid "No record available"
+msgstr ""
+
+#: templatic_bulk_upload.php:17
+#: templatic_bulk_upload.php:160
+#@ templatic
+msgid "CSV file size large. Maximum allowed upload file size is"
+msgstr ""
+
+#: templatic_bulk_upload.php:25
+#: tevolution-bulkimport.php:36
+#@ templatic
+msgid "Bulk Import/Export"
+msgstr ""
+
+#: templatic_bulk_upload.php:26
+#@ templatic
+msgid "Save your time by directly performing Import/export process here (it only accepts .csv format). You can import/export thousands of records of your desired post type in no time."
+msgstr ""
+
+#: templatic_bulk_upload.php:26
+#@ templatic
+msgid "Note"
+msgstr ""
+
+#: templatic_bulk_upload.php:26
+#@ templatic
+msgid "For a successful import/export you will have to follow the sample CSV format, there is a link below to download the sample file."
+msgstr ""
+
+#: templatic_bulk_upload.php:53
+#, php-format
+#@ templatic
+msgid "%s imported, %s updated, %s skipped of %s posts. %s"
+msgstr ""
+
+#: templatic_bulk_upload.php:59
+#@ templatic
+msgid "csv file structure doesn't match. Please download sample csv file to see required structure."
+msgstr ""
+
+#: templatic_bulk_upload.php:64
+#@ templatic
+msgid "CSV Import"
+msgstr ""
+
+#: templatic_bulk_upload.php:67
+#@ templatic
+msgid "Directly upload all the content of your desired custom post type (e.g. events, places, posts etc) here and check under its section located at your WordPress menu panel.(e.g. If you upload data for events then check under events section in your wp-admin panel)"
+msgstr ""
+
+#: templatic_bulk_upload.php:71
+#: templatic_bulk_upload.php:104
+#@ templatic
+msgid "Select post type"
+msgstr ""
+
+#: templatic_bulk_upload.php:89
+#@ templatic
+msgid "Import csv"
+msgstr ""
+
+#: templatic_bulk_upload.php:94
+#@ templatic
+msgid "Download the sample file to see the correct structure of the .csv file. To use bulk upload with custom fields simply add them as new columns inside the .csv file. Add them last (at the end)."
+msgstr ""
+
+#: templatic_bulk_upload.php:100
+#@ templatic
+msgid "CSV Export"
+msgstr ""
+
+#: templatic_bulk_upload.php:102
+#@ templatic
+msgid "Directly download all the content of your desired custom post type (e.g. events, places, posts etc) from here and save it on your hard drive."
+msgstr ""
+
+#: templatic_bulk_upload.php:117
+#@ templatic
+msgid "Export TO csv"
+msgstr ""
+
+#: templatic_bulk_upload.php:118
+#@ templatic
+msgid "If your current theme doesn&lsquo;t support .csv format then follow <a href=\"http://codex.wordpress.org/Backing_Up_Your_Database\">these</a> steps  to export your post from database.<p class=\"description\"><b>Note</b>: Instead of exporting in sql format,just export them into .csv format</p>"
+msgstr ""
+
+#: tevolution-bulkimport.php:105
+#, php-format
+#@ templatic
+msgid "You have not activated the base plugin %s. Please activate it to use Tevolution-BulkImport plugin."
+msgstr ""
+
+#: tevolution-bulkimport.php:117
+#@ templatic-admin
+msgid "Settings"
+msgstr ""
+
